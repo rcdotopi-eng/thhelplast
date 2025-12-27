@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://example.com/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/consultants/</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/hec-compliance.html</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/resources/hec-thesis-checklist.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/resources/research-glossary.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Consultant Profiles -->
+  <url>
+    <loc>https://example.com/consultants/dr-a-rahman.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/consultants/ms-s-iqbal.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://example.com/consultants/engr-m-khan.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
