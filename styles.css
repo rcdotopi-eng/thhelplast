@@ -543,11 +543,17 @@ textarea{
   position:fixed;
   inset:0;
   background: rgba(15,42,68,.45);
-  display:flex;
+  display:none;                 /* FIX */
   align-items:center;
   justify-content:center;
   z-index:200;
 }
+
+/* Only show when NOT hidden */
+.pdf-modal:not([hidden]){
+  display:flex;
+}
+
 .pdf-dialog{
   background:#fff;
   width:min(900px,92%);
@@ -582,3 +588,4 @@ body.is-rtl .faculty__top{
 /* -----------------------------
    End of file
 ------------------------------ */
+
